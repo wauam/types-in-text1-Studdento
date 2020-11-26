@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "io",
+      "setup": "",
+      "run": "python text",
+      "input": "",
+      "output": "to 2 be 2 or 1 not 1",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 100
+    }
+  ]
+}
