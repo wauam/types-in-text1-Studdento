@@ -3,7 +3,7 @@
     {
       "name": "io",
       "setup": "",
-      "run": "python text",
+      "run": "python 1.1.py",
       "input": "",
       "output": "to 2 be 2 or 1 not 1",
       "comparison": "exact",
